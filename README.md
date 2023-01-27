@@ -5,6 +5,6 @@ It creates a class "Game" which has methods to play the game, show the final sco
 The game is played in a loop until the user types 'Q' to quit and then it shows the final score.
 
 
-#Usage
+# Usage
 
 Run rock_paper_scissor.exe that is in dist folder.  
