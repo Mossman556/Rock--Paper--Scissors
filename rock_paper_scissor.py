@@ -3,7 +3,7 @@ import random
 class Game:
 
     def __init__(self):
-        # options available to play
+        # options available to plays
         self.options = ["rock", "paper", "scissors"]
         # winning combinations of the game
         self.winning_combinations = {("rock", "scissors"), ("paper", "rock"), ("scissors", "paper")}
@@ -11,7 +11,7 @@ class Game:
         self.user_wins = 0
         # number of times the computer wins
         self.computer_wins = 0
-        # number of times the game ends in a draw
+        # number of times the game ends in a draw 
         self.draws = 0
 
     def play(self):
