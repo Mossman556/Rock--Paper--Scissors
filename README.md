@@ -6,11 +6,11 @@ The game keeps track of the number of times the user wins, the computer wins, an
 
 # Features
 
-The game uses the random module to select a random option for the computer.
-The game checks for invalid input and prompts the user to try again.
-The game uses a set of winning combinations to determine the winner.
-The game keeps track of the number of times the user wins, the computer wins, and the number of draws.
-The game displays the final score of the game when the user quits.
+* The game uses the random module to select a random option for the computer.
+* The game checks for invalid input and prompts the user to try again.
+* The game uses a set of winning combinations to determine the winner.
+* The game keeps track of the number of times the user wins, the computer wins, and the number of draws.
+* The game displays the final score of the game when the user quits.
 
 # Usage
 
