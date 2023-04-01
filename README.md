@@ -1,17 +1,25 @@
 # Rock--Paper--Scissors
 
-This is a simple game of Rock-Paper-Scissors implemented in Python using the random module. The user can play the game by typing their choice of "rock", "paper", or "scissors" in the terminal. The computer chooses a random option and the game calculates the winner based on the rules of Rock-Paper-Scissors.
+This is a rock-paper-scissors game implemented in Python using the tkinter library for the GUI, and the random and playsound modules for the game logic and sound effects, respectively. 
 
-The game keeps track of the number of times the user wins, the computer wins, and the number of draws. When the user decides to quit the game by typing "q", the game displays the final score of the game, including the number of times the user won, the number of times the computer won, and the number of draws.
 
-# Features
+# Here are the main features of the game:
 
-* The game uses the random module to select a random option for the computer.
-* The game checks for invalid input and prompts the user to try again.
-* The game uses a set of winning combinations to determine the winner.
-* The game keeps track of the number of times the user wins, the computer wins, and the number of draws.
-* The game displays the final score of the game when the user quits.
+* Three options available for play: rock, paper, and scissors.
+* Winning combinations of the game: rock beats scissors, paper beats rock, and scissors beat paper.
+* The game keeps track of the number of times the user wins, the number of times the computer wins, and the number of draws.
+* Sound effects are played when the user wins, loses, or draws.
+* The GUI includes a title label, an instruction label, three buttons for the user to select their option, a result label to display the outcome of the game, a score       label to display the current score, and two buttons to reset the game and quit the application.
+* The game allows the user to quit by pressing the 'q' key.
 
-# Usage
+Overall, this game provides an interactive and fun way to play rock-paper-scissors against the computer, while keeping track of the score and providing sound effects for a more immersive experience.
 
-Run rock_paper_scissor.exe that is in dist folder.  
+#Usage
+
+There is an .EXE file included.
+
+
+
+
+
+
