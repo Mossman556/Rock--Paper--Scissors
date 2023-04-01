@@ -14,7 +14,7 @@ This is a rock-paper-scissors game implemented in Python using the tkinter libra
 
 Overall, this game provides an interactive and fun way to play rock-paper-scissors against the computer, while keeping track of the score and providing sound effects for a more immersive experience.
 
-#Usage
+# Usage
 
 There is an .EXE file included.
 
