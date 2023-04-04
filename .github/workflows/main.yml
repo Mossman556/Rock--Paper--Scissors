@@ -40,4 +40,4 @@ jobs:
         
     - name: Run Python file
       run: |
-        python Rock--Paper--Scissors.py
+        python Rock_Paper_Scissors.py
